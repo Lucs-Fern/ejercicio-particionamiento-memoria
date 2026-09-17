@@ -6,6 +6,43 @@
 #define LIBRE 0
 #define OCUPADA 1
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
 typedef struct {
     int id;
     int tamano;
